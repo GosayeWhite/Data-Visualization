@@ -1,2 +1,2 @@
 # Data-Visualization
-Data Visualitazion (Matplotlib/ panda/ Statistic Graphs)
+Data Visualitazion (Matplotlib/ Panda/ Statistic Graphs)
